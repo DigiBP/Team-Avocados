@@ -1,4 +1,4 @@
-# Team-Avocados
+# Team Avocados 🥑
 
 **Team**
  * Erzhena Batorova
